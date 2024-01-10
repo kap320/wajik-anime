@@ -51,7 +51,7 @@ const Footer = () => {
                            className="font-semibold hover:text-zinc-400 transition"
                            target="_blank"
                         >
-                           WAJIK45
+                           ranimev1
                         </a>
                      </p>
                   </div>
