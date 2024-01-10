@@ -30,7 +30,7 @@ const AnimeDetails = () => {
       return await response?.json();
    };
 
-   document.title = `Wajik Streaming | Anime : ${data?.title || ""}`;
+   document.title = `shana stream | Anime : ${data?.title || ""}`;
 
    data &&
       scrollTo({
