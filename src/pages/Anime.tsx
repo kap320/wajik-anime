@@ -22,7 +22,7 @@ const Anime = () => {
             behavior: "smooth",
          });
 
-         document.title = "shana Streaming | Anime";
+         document.title = "ranimev1 Streaming | Anime";
          online(setRefresh, setError);
          setIsLoading(true);
 
