@@ -26,7 +26,7 @@ const Genre = () => {
             behavior: "smooth",
          });
 
-         document.title = `Wajik Streaming | Genre : ${
+         document.title = `ranimev1 Streaming | Genre : ${
             slug
                ? slug.charAt(0).toUpperCase() + slug.slice(1).replace("-", " ")
                : ""
