@@ -11,7 +11,7 @@ const Footer = () => {
                <div className="text-center">
                   <div className="py-2 flex gap-8 justify-center">
                      <a
-                        href="https://github.com/wajik45"
+                        href="https://nyaweria.co/rizaedtz"
                         target="_blank"
                         className="hover:text-zinc-400 transition"
                      >
@@ -27,7 +27,7 @@ const Footer = () => {
                         </svg>
                      </a>
                      <a
-                        href="https://instagram.com/wajik45"
+                        href="https://instagram.com/rizaedtz01"
                         className="hover:text-zinc-400 transition"
                         target="_blank"
                      >
@@ -47,7 +47,7 @@ const Footer = () => {
                      <p>
                         Made by{" "}
                         <a
-                           href="https://github.com/wajik45"
+                           href="https://tiktok.com/shanachan01"
                            className="font-semibold hover:text-zinc-400 transition"
                            target="_blank"
                         >
