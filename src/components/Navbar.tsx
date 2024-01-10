@@ -31,7 +31,7 @@ const Navbar = () => {
                <div className="flex justify-between items-center flex-wrap mmd:block">
                   <div className="brand py-4">
                      <a href="/" className="font-bold text-2xl">
-                        Wajik Streaming
+                        ranimev1
                      </a>
                   </div>
                   <form
